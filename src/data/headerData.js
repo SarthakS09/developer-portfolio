@@ -3,7 +3,7 @@ import resume from '../assets/pdf/resume.pdf'
 export const headerData = {
     name: 'Sarthak Singh',
     title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    desciption:"“My code doesn’t have bugs, it just develops unexpected features.”– Said every engineer during a demo.",
+    image: 'https://raw.githubusercontent.com/SarthakS09/developer-portfolio/main/src/assets/Untitled%20design.png',
     resumePdf: resume
 }
