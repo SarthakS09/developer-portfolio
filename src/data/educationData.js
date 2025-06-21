@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
+        institution: ' New Standard Public School , Reabareli',
         course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        startYear: '2012',
+        endYear: '2024'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
+        institution: 'GLA University, Mathura',
         course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
-        startYear: '2019',
+        startYear: '2024',
         endYear: 'Present'
     },
 ]
