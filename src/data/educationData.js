@@ -1,7 +1,7 @@
 export const educationData = [
     {
         id: 1,
-        institution: ' New Standard Public School , Reabareli',
+        institution: ' New Standard Public School , Raebareli',
         course: 'Higher Secondary Education',
         startYear: '2012',
         endYear: '2024'
