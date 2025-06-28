@@ -17,16 +17,16 @@ export const projectsData = [
         code: 'https://github.com/SarthakS09/Project',
         demo: 'https://github.com/SarthakS09/Project',
         image: one
+    },
+    {
+        id: 2,
+        projectName: 'MiniBank',
+        projectDesc: 'A simple yet powerful MiniBank web application that allows users to register, manage accounts, transfer funds, and view real-time transaction history using Python Flask. 🏦💻',
+        tags: ['Python', 'HTML', 'Flask', 'Bootstrap'],
+        code: 'https://github.com/SarthakS09/Minibank',
+        demo: 'https://github.com/SarthakS09/Minibank',
+        image: two
     }
-    // {
-    //     id: 2,
-    //     projectName: 'Railway Tracking',
-    //     projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-    //     tags: ['Django', 'Tailwind CSS'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: two
-    // }
     // {
     //     id: 3,
     //     projectName: 'Weather App',
